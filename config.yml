@@ -1,0 +1,15 @@
+url: https://api.spoonacular.com/recipes/findByIngredients
+#api_keyy: 1b600645240c44fc89ab3eb0a625c810
+api_key: 53c30306dc764450b7891bd0afefa8b0
+ingredient:
+  -orange
+  -avocado
+  -cucumber
+  -pepper
+  -pumpkin
+  -carrot
+  -garlic
+  -radish
+  -potato
+  -apple
+  -plum
